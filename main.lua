@@ -6,7 +6,7 @@
 -- (c) 2021 Media Design School
 --
 -- File Name   : main.lua
--- Description : The main file resposnible for the game logic
+-- Description : The main file resposnible for the game logic!
 -- Author      : Keane Carotenuto
 -- Mail        : KeaneCarotenuto@gmail.com
 require "scripts/player"
